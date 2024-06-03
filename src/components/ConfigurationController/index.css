@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.upper-container {
+  height: 30vh;
+  background-color: #475569;
+  width: 100%;
+  padding: 10px;
+}
+.main-heading {
+  color: white;
+  font-size: 30px;
+}
+.label-element {
+  color: white;
+  font-size: 20px;
+}
