@@ -12,7 +12,7 @@ const ConfigurationController = () => (
         onToggleShowContent,
         onToggleShowLeftNavbar,
         onToggleShowRightNavbar,
-      } = value
+      } = value     
       const onClickContent = () => {
         onToggleShowContent()
       }
